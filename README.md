@@ -10,8 +10,8 @@
 
 ## Preconditions
 
-* Please make sure that you have a recent version of s3cmd installed (must support modify).
-* Please make sure that your user has "Edit Permissions" rights on the affected files.
+* Please make sure that you have s3cmd version >= 1.5.0 installed. Latest version: 1.6.1. Can be downloaded from: http://s3tools.org/download
+* Please make sure that your user has 's3:PutObjectAcl' permission on the affected files.
 
 
 
