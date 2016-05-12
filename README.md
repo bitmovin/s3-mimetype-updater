@@ -2,10 +2,11 @@
 
 ## Usage
 
-|**Usage:**|./s3-mimetype-updater.sh S3URI accesskey secretkey|
-|**S3URI:**|URI of your S3 bucket to recursively fix the MIME types in (must start with s3://)|
-|**accesskey:**|S3 access key of your user|
-|**secretkey:**|S3 secret key of your user|
+|Usage|./s3-mimetype-updater.sh S3URI accesskey secretkey|
+|-----|--------------------------------------------------|
+|**S3URI**|URI of your S3 bucket to recursively fix the MIME types in (must start with s3://)|
+|**accesskey**|S3 access key of your user|
+|**secretkey**|S3 secret key of your user|
 
 ## Preconditions
 
